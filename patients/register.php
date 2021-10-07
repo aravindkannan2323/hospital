@@ -8,11 +8,11 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF" crossorigin="anonymous">
 
-    <title>Patients Registratio Form</title>
+    <title>Patients Registration Form</title>
   </head>
   <body>
       <div class="container">
-          <h1>Patients Registratio Form</h1>
+          <h1>Patients Registration Form</h1>
       </div>
     
 
